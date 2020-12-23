@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="59.5 82 700.8359 349.5" width="700.8359" height="349.5">
+  <defs>
+    <font-face font-family="Fira Sans" font-size="16" panose-1="2 11 5 3 5 0 0 2 0 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="527" cap-height="689" ascent="935.0019" descent="-265.00054" font-weight="400">
+      <font-face-src>
+        <font-face-name name="FiraSans-Regular"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="#fe7d00">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Fira Sans" font-size="14" panose-1="2 11 5 3 5 0 0 2 0 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="527" cap-height="689" ascent="935.0019" descent="-265.00054" font-weight="400">
+      <font-face-src>
+        <font-face-name name="FiraSans-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Fira Sans" font-size="14" panose-1="2 11 8 3 5 0 0 2 0 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="531" cap-height="693" ascent="935.0019" descent="-265.00054" font-weight="700">
+      <font-face-src>
+        <font-face-name name="FiraSans-Bold"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18\n2020-12-08 08:09:00 +0000</metadata>
+  <g id="Paradigmatic___syntagmatic" fill="none" stroke="none" fill-opacity="1" stroke-opacity="1" stroke-dasharray="none">
+    <title>Paradigmatic / syntagmatic</title>
+    <g id="Paradigmatic___syntagmatic_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_11">
+        <path d="M 175.60155 159 L 175.60155 149 L 182.0674 149 L 171.5674 138 L 161.0674 149 L 167.53327 149 L 167.53327 159 L 106.31741 159 L 106.31741 341.5 L 167.53327 341.5 L 167.53327 351.5 L 161.0674 351.5 L 171.5674 362.5 L 182.0674 351.5 L 175.60155 351.5 L 175.60155 341.5 L 236.8174 341.5 L 236.8174 159 Z" fill="white"/>
+        <path d="M 175.60155 159 L 175.60155 149 L 182.0674 149 L 171.5674 138 L 161.0674 149 L 167.53327 149 L 167.53327 159 L 106.31741 159 L 106.31741 341.5 L 167.53327 341.5 L 167.53327 351.5 L 161.0674 351.5 L 171.5674 362.5 L 182.0674 351.5 L 175.60155 351.5 L 175.60155 341.5 L 236.8174 341.5 L 236.8174 159 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(111.31741 183.75)" fill="black">
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="30.41" y="15">This city</tspan>
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="31.034" y="72">Helsinki</tspan>
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="20.138" y="129">The capital</tspan>
+        </text>
+      </g>
+      <g id="Graphic_10">
+        <path d="M 334.10155 216 L 334.10155 206 L 340.5674 206 L 330.0674 195 L 319.5674 206 L 326.03327 206 L 326.03327 216 L 264.8174 216 L 264.8174 398.5 L 326.03327 398.5 L 326.03327 408.5 L 319.5674 408.5 L 330.0674 419.5 L 340.5674 408.5 L 334.10155 408.5 L 334.10155 398.5 L 395.3174 398.5 L 395.3174 216 Z" fill="white"/>
+        <path d="M 334.10155 216 L 334.10155 206 L 340.5674 206 L 330.0674 195 L 319.5674 206 L 326.03327 206 L 326.03327 216 L 264.8174 216 L 264.8174 398.5 L 326.03327 398.5 L 326.03327 408.5 L 319.5674 408.5 L 330.0674 419.5 L 340.5674 408.5 L 334.10155 408.5 L 334.10155 398.5 L 395.3174 398.5 L 395.3174 216 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(269.8174 240.75)" fill="black">
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="54.258" y="15">is</tspan>
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="35.162" y="72">hosted</tspan>
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="13.722" y="129">was founded</tspan>
+        </text>
+      </g>
+      <g id="Graphic_9">
+        <path d="M 484.53327 341 L 484.53327 351 L 478.0674 351 L 488.5674 362 L 499.0674 351 L 492.60155 351 L 492.60155 341 L 553.8174 341 L 553.8174 158.5 L 492.60155 158.5 L 492.60155 148.5 L 499.0674 148.5 L 488.5674 137.5 L 478.0674 148.5 L 484.53327 148.5 L 484.53327 158.5 L 423.3174 158.5 L 423.3174 341 Z" fill="white"/>
+        <path d="M 484.53327 341 L 484.53327 351 L 478.0674 351 L 488.5674 362 L 499.0674 351 L 492.60155 351 L 492.60155 341 L 553.8174 341 L 553.8174 158.5 L 492.60155 158.5 L 492.60155 148.5 L 499.0674 148.5 L 488.5674 137.5 L 478.0674 148.5 L 484.53327 148.5 L 484.53327 158.5 L 423.3174 158.5 L 423.3174 341 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(428.3174 183.25)" fill="black">
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="33.146" y="15">located</tspan>
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="21.386" y="72">the capital</tspan>
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="12.914" y="129">the Olympics</tspan>
+        </text>
+      </g>
+      <g id="Graphic_8">
+        <path d="M 651.10155 166.5 L 651.10155 156.5 L 657.5674 156.5 L 647.0674 145.5 L 636.5674 156.5 L 643.0333 156.5 L 643.0333 166.5 L 581.8174 166.5 L 581.8174 410 L 643.0333 410 L 643.0333 420 L 636.5674 420 L 647.0674 431 L 657.5674 420 L 651.10155 420 L 651.10155 410 L 712.3174 410 L 712.3174 166.5 Z" fill="white"/>
+        <path d="M 651.10155 166.5 L 651.10155 156.5 L 657.5674 156.5 L 647.0674 145.5 L 636.5674 156.5 L 643.0333 156.5 L 643.0333 166.5 L 581.8174 166.5 L 581.8174 410 L 643.0333 410 L 643.0333 420 L 636.5674 420 L 647.0674 431 L 657.5674 420 L 651.10155 420 L 651.10155 410 L 712.3174 410 L 712.3174 166.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(586.8174 183.75)" fill="black">
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="35.554" y="15">in 1952</tspan>
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="23.498" y="72">of Finland</tspan>
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="35.242" y="129">in 1550</tspan>
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="14.898" y="186">by the Baltic </tspan>
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="47.138" y="205">Sea</tspan>
+        </text>
+      </g>
+      <g id="Graphic_7">
+        <rect x="106.31741" y="239.75" width="606" height="21" fill="#fe7d00" fill-opacity=".34586366"/>
+        <rect x="106.31741" y="239.75" width="606" height="21" stroke="#fe7d00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_6">
+        <path d="M 77.67088 109 C 36.56789 139.91436 77.42289 164.54536 97.08473 173.42977" marker-end="url(#FilledArrow_Marker)" stroke="#fe7d00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_5">
+        <text transform="translate(84.54341 87)" fill="#fe7d00">
+          <tspan font-family="Fira Sans" font-size="14" font-weight="400" fill="#fe7d00" x="0" y="13">Paradigmatic organisation:</tspan>
+          <tspan font-family="Fira Sans" font-size="14" font-weight="700" fill="#fe7d00" x="0" y="34">choices among</tspan>
+          <tspan font-family="Fira Sans" font-size="14" font-weight="400" fill="#fe7d00" y="34"> </tspan>
+          <tspan font-family="Fira Sans" font-size="14" font-weight="700" fill="#fe7d00" y="34">alternatives</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <text transform="translate(556.8174 87)" fill="#fe7d00">
+          <tspan font-family="Fira Sans" font-size="14" font-weight="400" fill="#fe7d00" x="0" y="13">Syntagmatic organisation:</tspan>
+          <tspan font-family="Fira Sans" font-size="14" font-weight="700" fill="#fe7d00" x="0" y="34">combinations of choices</tspan>
+        </text>
+      </g>
+      <g id="Line_3">
+        <path d="M 727.2514 108 C 794.7973 158.24756 739.6303 223.42282 719.1543 244.8384" marker-end="url(#FilledArrow_Marker)" stroke="#fe7d00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
