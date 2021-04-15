@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="34 419 789 326" width="789" height="326">
+  <defs>
+    <font-face font-family="Fira Sans" font-size="16" panose-1="2 11 5 3 5 0 0 2 0 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="527" cap-height="689" ascent="935.0019" descent="-265.00054" font-weight="400">
+      <font-face-src>
+        <font-face-name name="FiraSans-Regular"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="#fe7d00">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Fira Sans" font-size="14" panose-1="2 11 5 3 5 0 0 2 0 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="527" cap-height="689" ascent="935.0019" descent="-265.00054" font-weight="400">
+      <font-face-src>
+        <font-face-name name="FiraSans-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Fira Sans" font-size="14" panose-1="2 11 8 3 5 0 0 2 0 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="531" cap-height="693" ascent="935.0019" descent="-265.00054" font-weight="700">
+      <font-face-src>
+        <font-face-name name="FiraSans-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Menlo" font-size="9" panose-1="2 11 6 9 3 8 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Regular"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.5\n2021-04-15 09:40:24 +0000</metadata>
+  <g id="Vectors_vs__contextual_vectors" stroke="none" fill="none" fill-opacity="1" stroke-opacity="1" stroke-dasharray="none">
+    <title>Vectors vs. contextual vectors</title>
+    <rect fill="white" x="34" y="419" width="789" height="326"/>
+    <g id="Vectors_vs__contextual_vectors_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_12">
+        <text transform="translate(242.5 513)" fill="black">
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="5684342e-19" y="15">the</tspan>
+        </text>
+      </g>
+      <g id="Graphic_13">
+        <text transform="translate(305.2994 513)" fill="black">
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="24868996e-21" y="15">capital</tspan>
+        </text>
+      </g>
+      <g id="Graphic_14">
+        <text transform="translate(191.6686 513)" fill="black">
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="18829382e-20" y="15">is</tspan>
+        </text>
+      </g>
+      <g id="Graphic_15">
+        <text transform="translate(94.38918 513)" fill="black">
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="34816594e-20" y="15">Helsinki</tspan>
+        </text>
+      </g>
+      <g id="Graphic_16">
+        <text transform="translate(393.6828 513)" fill="black">
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="7709389e-19" y="15">of</tspan>
+        </text>
+      </g>
+      <g id="Graphic_17">
+        <text transform="translate(447.2342 513)" fill="black">
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="6536993e-19" y="15">Finland</tspan>
+        </text>
+      </g>
+      <g id="Line_18">
+        <path d="M 52.17088 445 C 11.067889 475.91436 51.922893 500.54536 71.58473 509.42977" marker-end="url(#FilledArrow_Marker)" stroke="#fe7d00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_19">
+        <text transform="translate(60.5 424.5)" fill="#fe7d00">
+          <tspan font-family="Fira Sans" font-size="14" font-weight="400" fill="#fe7d00" x="0" y="16">Individual </tspan>
+          <tspan font-family="Fira Sans" font-size="14" font-weight="700" fill="#fe7d00" y="16">lexical types</tspan>
+          <tspan font-family="Fira Sans" font-size="14" font-weight="400" fill="#fe7d00" y="16"> in</tspan>
+          <tspan font-family="Fira Sans" font-size="14" font-weight="400" fill="#fe7d00" x="0" y="34">the model’s vocabulary</tspan>
+        </text>
+      </g>
+      <g id="Graphic_20">
+        <text transform="translate(107.31741 542)" fill="black">
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="8">[0.69, </tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="18">-0.78, </tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="28">-0.13, </tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="38">-0.99, </tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="48">-0.56, </tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="58"> ...]</tspan>
+        </text>
+      </g>
+      <g id="Graphic_21">
+        <text transform="translate(183.50189 542)" fill="black">
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="8">[0.46,</tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="18"> 0.13,</tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="28"> 0.73, </tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="38">-0.56, </tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="48">-0.59,</tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="58"> ...]</tspan>
+        </text>
+      </g>
+      <g id="Graphic_22">
+        <text transform="translate(386.8224 542)" fill="black">
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="8">[0.68, </tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="18">-0.86, </tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="28">-0.63,</tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="38"> 0.29, </tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="48">-0.96,</tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="58"> ...]</tspan>
+        </text>
+      </g>
+      <g id="Graphic_23">
+        <text transform="translate(234.29652 542)" fill="black">
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="8">[-0.42,</tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="18"> -0.26,</tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="28"> -0.35,</tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="38"> -0.77,</tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="48"> -0.32,</tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="58">  ...]</tspan>
+        </text>
+      </g>
+      <g id="Graphic_24">
+        <text transform="translate(308.35842 542)" fill="black">
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="8">[-0.26,</tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="18"> -0.53,</tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="28">  0.46,</tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="38"> -0.06,</tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="48"> -0.51, </tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="58">  ...]</tspan>
+        </text>
+      </g>
+      <g id="Graphic_25">
+        <text transform="translate(459.41454 542)" fill="black">
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="8">[0.64,</tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="18"> 0.05, </tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="28">-0.32, </tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="38">-0.91, </tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="48">-0.4,</tspan>
+          <tspan font-family="Menlo" font-size="9" font-weight="400" fill="black" x="0" y="58"> ...]</tspan>
+        </text>
+      </g>
+      <g id="Line_27">
+        <path d="M 512.5 467.5 C 556.81875 503.1133 528.616 546.24245 513.9718 562.6858" marker-end="url(#FilledArrow_Marker)" stroke="#fe7d00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_28">
+        <text transform="translate(413.5 424.5)" fill="#fe7d00">
+          <tspan font-family="Fira Sans" font-size="14" font-weight="400" fill="#fe7d00" x="0" y="13">High-dimensional vector </tspan>
+          <tspan font-family="Fira Sans" font-size="14" font-weight="400" fill="#fe7d00" x="0" y="31">representations for </tspan>
+          <tspan font-family="Fira Sans" font-size="14" font-weight="700" fill="#fe7d00" x="0" y="52">lexical types</tspan>
+        </text>
+      </g>
+      <g id="Graphic_29">
+        <rect x="301.2994" y="512" width="58.536" height="21" fill="#fe7d00" fill-opacity=".34586366"/>
+        <rect x="301.2994" y="512" width="58.536" height="21" stroke="#fe7d00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_30">
+        <path d="M 351.70578 542 C 378.34206 572.4049 367.3096 598.09315 358.46072 609.9595" marker-end="url(#FilledArrow_Marker)" stroke="#fe7d00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_31">
+        <text transform="translate(179.4 709)" fill="#fe7d00">
+          <tspan font-family="Fira Sans" font-size="14" font-weight="700" fill="#fe7d00" x="0" y="16">Tokens </tspan>
+          <tspan font-family="Fira Sans" font-size="14" font-weight="400" fill="#fe7d00" y="16">are instances of a particular lexical type </tspan>
+        </text>
+      </g>
+      <g id="Graphic_32">
+        <text transform="translate(124 626)" fill="black">
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="0" y="15">… Stockholm is a capital city by the Baltic Sea …</tspan>
+        </text>
+      </g>
+      <g id="Graphic_33">
+        <text transform="translate(63.24801 655)" fill="black">
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="0" y="15">… Capital market is a financial market in which long-term debt …</tspan>
+        </text>
+      </g>
+      <g id="Graphic_34">
+        <rect x="248" y="625" width="53.41797" height="21" fill="#fe7d00" fill-opacity=".34586366"/>
+        <rect x="248" y="625" width="53.41797" height="21" stroke="#fe7d00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_35">
+        <rect x="78" y="654" width="53.41797" height="21" fill="#fe7d00" fill-opacity=".34586366"/>
+        <rect x="78" y="654" width="53.41797" height="21" stroke="#fe7d00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_36">
+        <path d="M 166.45782 720.5 C 140.30721 714.1152 124.99241 700.59655 117.83582 691.6564" marker-end="url(#FilledArrow_Marker)" stroke="#fe7d00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_37">
+        <path d="M 272.452 706.5 C 285.9679 695.1469 284.71338 669.4443 282.15987 655.4723" marker-end="url(#FilledArrow_Marker)" stroke="#fe7d00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_40">
+        <text transform="translate(588.712 527.2873)" fill="#fe7d00">
+          <tspan font-family="Fira Sans" font-size="14" font-weight="700" fill="#fe7d00" x="0" y="16">Word embeddings </tspan>
+          <tspan font-family="Fira Sans" font-size="14" font-weight="400" fill="#fe7d00" y="16">learn </tspan>
+          <tspan font-family="Fira Sans" font-size="14" font-weight="400" fill="#fe7d00" x="0" y="34">representations for </tspan>
+          <tspan font-family="Fira Sans" font-size="14" font-weight="700" fill="#fe7d00" x="0" y="55">lexical types</tspan>
+        </text>
+      </g>
+      <g id="Graphic_41">
+        <text transform="translate(588.712 642.5)" fill="#fe7d00">
+          <tspan font-family="Fira Sans" font-size="14" font-weight="700" fill="#fe7d00" x="0" y="16">Contextual word embeddings </tspan>
+          <tspan font-family="Fira Sans" font-size="14" font-weight="400" fill="#fe7d00" y="16">learn </tspan>
+          <tspan font-family="Fira Sans" font-size="14" font-weight="400" fill="#fe7d00" x="0" y="37">representations for </tspan>
+          <tspan font-family="Fira Sans" font-size="14" font-weight="700" fill="#fe7d00" y="37">tokens</tspan>
+          <tspan font-family="Fira Sans" font-size="14" font-weight="400" fill="#fe7d00" y="37">, that is, </tspan>
+          <tspan font-family="Fira Sans" font-size="14" font-weight="400" fill="#fe7d00" x="0" y="55">instances of lexical types in their </tspan>
+          <tspan font-family="Fira Sans" font-size="14" font-weight="400" fill="#fe7d00" x="0" y="73">context of use!</tspan>
+        </text>
+      </g>
+      <g id="Group_45">
+        <g id="Line_42">
+          <path d="M 549.2 625 L 561.7807 625 L 561.7807 744.5 L 549.2 744.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_44">
+          <line x1="561.7807" y1="681.04986" x2="573.4" y2="681.04986" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_46">
+        <g id="Line_48">
+          <path d="M 549.2 509 L 561.7807 509 L 561.7807 614.5746 L 549.2 614.5746" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_47">
+          <line x1="561.7807" y1="558.44334" x2="572.4" y2="558.44334" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
