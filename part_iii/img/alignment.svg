@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="146 891 455 206" width="455" height="206">
+  <defs>
+    <font-face font-family="Fira Sans" font-size="14" panose-1="2 11 5 3 5 0 0 2 0 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="527" cap-height="689" ascent="935.0019" descent="-265.00054" font-weight="400">
+      <font-face-src>
+        <font-face-name name="FiraSans-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Fira Sans" font-size="14" panose-1="2 11 8 3 5 0 0 2 0 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="531" cap-height="693" ascent="935.0019" descent="-265.00054" font-weight="700">
+      <font-face-src>
+        <font-face-name name="FiraSans-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Fira Sans" font-size="16" panose-1="2 11 5 3 5 0 0 2 0 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="527" cap-height="689" ascent="935.0019" descent="-265.00054" font-weight="400">
+      <font-face-src>
+        <font-face-name name="FiraSans-Regular"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="#fe7d00">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.5\n2021-04-16 06:53:00 +0000</metadata>
+  <g id="spaCy_vs__Transformer_Tokens" fill="none" fill-opacity="1" stroke-opacity="1" stroke-dasharray="none" stroke="none">
+    <title>spaCy vs. Transformer Tokens</title>
+    <rect fill="white" x="146" y="891" width="455" height="206"/>
+    <g id="spaCy_vs__Transformer_Tokens_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_31">
+        <text transform="translate(247.61797 1014.5)" fill="#fe7d00">
+          <tspan font-family="Fira Sans" font-size="14" font-weight="400" fill="#fe7d00" x="0" y="13">The token “Helsinki” does not exist in </tspan>
+          <tspan font-family="Fira Sans" font-size="14" font-weight="400" fill="#fe7d00" x="0" y="32">the Transformer’s vocabulary, which </tspan>
+          <tspan font-family="Fira Sans" font-size="14" font-weight="400" fill="#fe7d00" x="0" y="51">is why the word is split into three </tspan>
+          <tspan font-family="Fira Sans" font-size="14" font-weight="700" fill="#fe7d00" x="0" y="73">subwords </tspan>
+          <tspan font-family="Fira Sans" font-size="14" font-weight="400" fill="#fe7d00" y="73">found in the vocabulary</tspan>
+        </text>
+      </g>
+      <g id="Graphic_32">
+        <text transform="translate(160 903.5)" fill="black">
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="2.12" y="15">Helsinki    is    the    capital    of     Finland. </tspan>
+        </text>
+      </g>
+      <g id="Graphic_34">
+        <rect x="155.9" y="902.5" width="64.319296" height="21" fill="#fe7d00" fill-opacity=".34586366"/>
+        <rect x="155.9" y="902.5" width="64.319296" height="21" stroke="#fe7d00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_36">
+        <path d="M 242.61797 1025 C 215.15543 1018.2949 199.6432 1000.5302 192.98013 989.5514" marker-end="url(#FilledArrow_Marker)" stroke="#fe7d00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_37">
+        <line x1="188.05965" y1="923.5" x2="158.62891" y2="953.4" stroke="#fe7d00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_45">
+        <g id="Line_42">
+          <path d="M 481.5 942.4 L 494.0807 942.4 L 494.0807 986.4 L 481.5 986.4" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_44">
+          <line x1="494.0807" y1="962.631" x2="505.7" y2="962.631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Graphic_49">
+        <text transform="translate(151.52 954.4)" fill="black">
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="2.12" y="15">H els inki    is    the    capital    of     Finland. </tspan>
+        </text>
+      </g>
+      <g id="Graphic_50">
+        <rect x="151.4" y="953.4" width="14.457816" height="21" fill="#fe7d00" fill-opacity=".34586366"/>
+        <rect x="151.4" y="953.4" width="14.457816" height="21" stroke="#fe7d00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_51">
+        <rect x="167.95782" y="953.4" width="22.142184" height="21" fill="#fe7d00" fill-opacity=".34586366"/>
+        <rect x="167.95782" y="953.4" width="22.142184" height="21" stroke="#fe7d00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_52">
+        <rect x="192.2" y="953.4" width="29.019293" height="21" fill="#fe7d00" fill-opacity=".34586366"/>
+        <rect x="192.2" y="953.4" width="29.019293" height="21" stroke="#fe7d00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_59">
+        <g id="Line_61">
+          <path d="M 481.5 892 L 494.0807 892 L 494.0807 936 L 481.5 936" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_60">
+          <line x1="494.0807" y1="912.231" x2="505.7" y2="912.231" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Graphic_62">
+        <text transform="translate(508.6 903.5)" fill="#fe7d00">
+          <tspan font-family="Fira Sans" font-size="14" font-weight="400" fill="#fe7d00" x="0" y="13">spaCy tokens</tspan>
+        </text>
+      </g>
+      <g id="Graphic_63">
+        <text transform="translate(510.7 945.4)" fill="#fe7d00">
+          <tspan font-family="Fira Sans" font-size="14" font-weight="400" fill="#fe7d00" x="0" y="13">Transformer </tspan>
+          <tspan font-family="Fira Sans" font-size="14" font-weight="400" fill="#fe7d00" x="0" y="31">tokens</tspan>
+        </text>
+      </g>
+      <g id="Line_64">
+        <line x1="188.05965" y1="923.5" x2="179.0289" y2="953.4" stroke="#fe7d00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_65">
+        <line x1="188.05965" y1="923.5" x2="206.70965" y2="953.4" stroke="#fe7d00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
