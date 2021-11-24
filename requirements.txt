@@ -80,7 +80,6 @@ pathy==0.6.1
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==8.4.0
-pkg_resources==0.0.0
 preshed==3.0.6
 prometheus-client==0.12.0
 prompt-toolkit==3.0.22
